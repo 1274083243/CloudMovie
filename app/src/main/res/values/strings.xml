@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CloudMovie</string>
+    <string name="pan_search">云盘搜索</string>
+    <string name="music">音乐大咖</string>
+    <string name="video">看一看</string>
+</resources>
